@@ -1,0 +1,20 @@
+Complaint Pack — Artwork prompts
+Created with the built-in image generation tool.
+Promotional illustrations, not app screenshots.
+
+Banner-Horizontal.png
+Use case: ads-marketing. Create a polished editorial product campaign for Complaint Pack, a free offline tool for organising a customer complaint. Warm ivory #F7F4EE background, deep teal #174F4B typography, sage #DCE9DD and warm terracotta #D8876B accents. Premium tactile paper illustration, generous negative space, very legible modern type. Visual: an orderly stack of documents, a receipt, a small abstract photo, and numbered tabs E01 E02 E03, held together by a tasteful teal folder. Suggest calm organisation and a clear sequence. Conceptual illustration, NOT an actual app screenshot. No real personal data, no seals, no legal symbols, no claims about guaranteed refunds. No extra words or brand logos.
+Asset: horizontal 16:9 cover. Large typography on left, paper folder composition on right. Exact text: "Complaint Pack"; "A clear story.\nAll the evidence."; "FREE • OFFLINE • ONE HTML FILE".
+
+Banner-Vertical.png
+Use case: ads-marketing. Create a polished editorial product campaign for Complaint Pack, a free offline tool for organising a customer complaint. Warm ivory #F7F4EE background, deep teal #174F4B typography, sage #DCE9DD and warm terracotta #D8876B accents. Premium tactile paper illustration, generous negative space, very legible modern type. Visual: an orderly stack of documents, a receipt, a small abstract photo, and numbered tabs E01 E02 E03, held together by a tasteful teal folder. Suggest calm organisation and a clear sequence. Conceptual illustration, NOT an actual app screenshot. No real personal data, no seals, no legal symbols, no claims about guaranteed refunds. No extra words or brand logos.
+Asset: vertical 9:16 banner. Strong stacked headline above a beautiful paper folder composition. Exact text: "Complaint Pack"; "Less back-and-forth.\nMore clarity."; "Collect. Explain. Export."; "FREE • OFFLINE".
+
+Banner-Square.png
+Use case: ads-marketing. Create a polished editorial product campaign for Complaint Pack, a free offline tool for organising a customer complaint. Warm ivory #F7F4EE background, deep teal #174F4B typography, sage #DCE9DD and warm terracotta #D8876B accents. Premium tactile paper illustration, generous negative space, very legible modern type. Visual: an orderly stack of documents, a receipt, a small abstract photo, and numbered tabs E01 E02 E03, held together by a tasteful teal folder. Suggest calm organisation and a clear sequence. Conceptual illustration, NOT an actual app screenshot. No real personal data, no seals, no legal symbols, no claims about guaranteed refunds. No extra words or brand logos.
+Asset: square 1:1 promotion. Large title and headline, tidy evidence folder in lower half. Exact text: "Complaint Pack"; "Your complaint,\nclearly organised."; "FREE • OFFLINE • ONE HTML FILE".
+
+Product-Image.png
+Use case: ads-marketing. Create a polished editorial product campaign for Complaint Pack, a free offline tool for organising a customer complaint. Warm ivory #F7F4EE background, deep teal #174F4B typography, sage #DCE9DD and warm terracotta #D8876B accents. Premium tactile paper illustration, generous negative space, very legible modern type. Visual: an orderly stack of documents, a receipt, a small abstract photo, and numbered tabs E01 E02 E03, held together by a tasteful teal folder. Suggest calm organisation and a clear sequence. Conceptual illustration, NOT an actual app screenshot. No real personal data, no seals, no legal symbols, no claims about guaranteed refunds. No extra words or brand logos.
+Asset: square 1:1 product explainer. Legible typography, numbered steps and a complementary folder illustration. Exact text: "Complaint Pack"; "Make your case easy to follow."; "1. Add the facts"; "2. Organise the evidence"; "3. Review and export"; "FREE • OFFLINE • NO ACCOUNT".
+

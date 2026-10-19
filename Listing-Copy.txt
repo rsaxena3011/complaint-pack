@@ -1,0 +1,130 @@
+COMPLAINT PACK - READY-TO-USE LISTING COPY
+
+PRODUCT TITLE
+Complaint Pack
+
+TAGLINE
+A clear story. All the evidence.
+
+SHORT DESCRIPTION
+Organise a complaint with a clear timeline, numbered evidence, an editable message, and a shareable report. Free, offline, and contained in one HTML file.
+
+PRICE LINE
+Free. All features included. No account or subscription.
+For Gumroad: Enter 0 to download free.
+
+FULL PRODUCT DESCRIPTION
+Receipts in one folder. Screenshots in another. Support conversations scattered across emails. Before you contact a company again, bring the important details together.
+
+Complaint Pack helps you explain what happened, what you have already tried, and what you want the company to do next.
+
+Open the HTML file in your browser and work through five steps:
+
+1. Add the facts
+Record the company, reference number, issue, impact, and specific resolution you want.
+
+2. Build a timeline
+Add events and support conversations. Record dates, channels, and who you spoke to. Link each event to its supporting evidence.
+
+3. Organise the evidence
+Add receipts, screenshots, photos, or PDFs. Give each file a useful title and caption. Stable E01, E02, and E03 references make the case easier to follow.
+
+4. Prepare your message
+Choose a full complaint, short complaint, or follow-up template. Pick a courteous or direct tone, then edit the wording and copy it into your email.
+
+5. Review and export
+Preview the report and message. Choose what to include, check the original attachments, and download a shared ZIP. You can also print the report or use your browser's Save as PDF option.
+
+USEFUL EXTRAS
+- Private notes and private timeline events.
+- Per-file sharing controls.
+- Optional contact-detail and amount inclusion.
+- Case status and a checklist of missing essentials.
+- A private editable project file with all your attachments.
+- An optional remembered browser draft.
+- A calendar file for your chosen follow-up date.
+- A fictional example to explore before entering your own details.
+
+LOCAL AND SIMPLE
+One HTML file. No installation, account, external libraries, analytics, or network requests. The message templates run locally and do not use AI. Nothing is sent automatically.
+
+WHAT YOU RECEIVE
+- The complete offline app and editable source.
+- A quick-start and upload guide.
+- Horizontal, vertical, and square banners.
+- A square product explainer image.
+- Listing copy and social captions.
+- An MIT license and the artwork prompts.
+
+PLEASE KNOW BEFORE DOWNLOADING
+Save a private project to keep editing later. It contains private notes and every attachment, including excluded files; keep it for yourself. Remembered browser drafts are optional and are not a backup. Project files and drafts are not password encrypted.
+
+Shared originals retain their content and metadata. Remove private details before adding them. Manually edited message text is shared exactly as written, even if you later change sharing settings.
+
+PDFs are included as separate attachments. Their pages are not embedded in the report or its printed PDF. The printed report and the message are separate outputs.
+
+The app supports still PNG, JPG, WebP, and PDF: up to 24 files, 12 MB per file, and 30 MB of originals per case. It keeps one active case; save separate projects for different cases. Desktop browsers are the intended environment.
+
+Complaint Pack organises the information you enter. It does not verify evidence, calculate legal deadlines, submit complaints, send reminders, or promise a particular outcome.
+
+RELEASE NOTE
+Version 1.0.0 passed 16 automated checks. Live browser interaction and visual/print-layout testing were unavailable during the build; compatibility is not verified across browsers. See the README for the short browser check before publishing.
+
+FAQ
+
+Is it really free?
+Yes. All features are included. There is no paid tier or subscription.
+
+Do I need to install anything?
+Extract the ZIP and open index.html in your desktop browser with JavaScript enabled.
+
+Are my files uploaded?
+The app makes no network requests. Files are processed in your browser. Sharing is something you do yourself after reviewing the exported pack.
+
+Can I continue later?
+Yes. Save a private project and reopen it. You can also opt into remembering one draft in the same browser.
+
+Will it email the company?
+No. Copy the message into your email and attach the files or ZIP yourself.
+
+Can I save a PDF?
+Use Print / Save PDF and choose your browser's PDF destination if available. The report includes image previews; PDF attachment pages remain separate.
+
+Can I edit the app?
+Yes. Its HTML, CSS, and JavaScript are in index.html. The code is supplied under the MIT license.
+
+GITHUB REPOSITORY NAME
+complaint-pack
+
+GITHUB DESCRIPTION
+A free, offline HTML app for complaint timelines, numbered evidence, editable messages, and shareable reports. No account or uploads.
+
+GITHUB TOPICS
+offline, html, javascript, local-first, complaint-management, evidence, productivity, open-source
+
+RELEASE TITLE
+Complaint Pack v1.0.0
+
+RELEASE SUMMARY
+The first free release: a five-step case editor, stable evidence references, private notes, local message templates, editable project backups, and shared report ZIPs. Extract the package and open index.html. See README.md for limits and browser verification status.
+
+SOCIAL CAPTION - SHORT
+Complaint to make? Put the facts, timeline, and evidence in one place. Complaint Pack is a free offline HTML app with editable messages and shareable reports. No account needed.
+
+SOCIAL CAPTION - LONG
+A clear complaint is easier to follow.
+
+Complaint Pack helps you collect the facts, put events in order, number the evidence, and prepare a message you can edit before sending.
+
+Keep personal notes in your private project. Review what goes into the shared report and attachment pack.
+
+Free, offline, and contained in one HTML file. Extract, open, and try the fictional example.
+
+IMAGE ALT TEXT
+Horizontal: Complaint Pack title beside an illustrated folder of numbered evidence; A clear story. All the evidence.
+Vertical: Complaint Pack promotional illustration with numbered evidence and the line Collect. Explain. Export.
+Square: Complaint Pack square cover with a folder and organised papers; Your complaint, clearly organised.
+Product: Illustrated three-step overview: Add the facts, Organise the evidence, Review and export.
+
+IMAGE NOTE
+Promotional images are conceptual illustrations, not screenshots of the app.
